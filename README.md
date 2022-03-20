@@ -1,1 +1,1 @@
-# Monte-Carlo-control-racetrack-
+# MC algorithm, Q-learning, Sarsa and Dyna Q
